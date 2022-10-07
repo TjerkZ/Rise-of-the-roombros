@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - RoombaBorder
+  - objective
   layers:
   - Default
   - TransparentFX
